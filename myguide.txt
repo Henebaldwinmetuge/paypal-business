@@ -1,0 +1,61 @@
+ 
+
+Software Development LifeCycle  = SDLC  :
+  I and my team are managing applications for 
+  clients
+
+LandmarkTech - Software Development Company
+  Develops software for FinTech companies.
+     ATM / 
+     onlinePayment 
+       visa / 
+       master 
+       paypal
+     mobile money 
+     POS - Machines     
+
+  over 80%  of global transactions are managed using 
+  FinTech applications
+
+  over 80%  of human interactions are managed using 
+  social media applications:
+    whatsapp / facebook / tiktok / telegram / 
+    telephone / x / 
+
+  applications are the output of software Development.
+
+  TD.COM  --- 
+
+LandmarkTech                         Tesla   :
+SDLC = 
+  WATERFALL methodology :
+    6-8 months to Develop applications
+    Requirements = TeamLeads / BA    
+    development/ = developers 
+    tested       = QA  
+    deployed     = Middleware Admins
+    maintenance  = support team   
+
+     poor utilisation of Resources   = Labour
+     poor time mgt 
+     poor collaboration  
+
+  Agile methodology :
+    Scrum framework :  
+  landpay = online payment system:
+    pay bills            = 20 features
+    create invoice       = 50 features    
+    refunds              = 20 features  
+    transfer to bank     = 20 features  
+    transfer to credit card  = 20 features   
+    resolve issues   = 20 features  
+
+Landpay Fintech application requires 250 features:
+  How much Resources do we have?
+  Resources / Team size: 10
+    4 Developers  / J/P/M/B   
+    1 scrum master   
+    3 DevOps Engineers / L / K / G    
+    1 Security Engineer  
+    1 QA 
+
