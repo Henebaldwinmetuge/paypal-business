@@ -7,4 +7,4 @@ scripting is automation
 git distributing version control system
 aws cloud computing provider
 ec2-user virtual servers in the cloud
-
+DevOps engineers help multiple fintech companies to automat their task and laverages them with cloude service
