@@ -1,3 +1,4 @@
+DevOps engineers develope, build, test deploy and monitor applications
 SDLC is good using devops and agile approach
 Linux is open source
 scripting is automation
